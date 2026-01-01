@@ -1,4 +1,4 @@
-# Web ARG Explorer
+# Web ARG Explorer v1.0.2
 
 ## 概要
 
