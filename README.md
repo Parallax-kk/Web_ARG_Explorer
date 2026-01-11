@@ -1,4 +1,4 @@
-# Web ARG Explorer v1.0.5
+# Web ARG Explorer v1.0.6
 
 ## 概要
 
@@ -10,6 +10,10 @@ Web ARG Explorerは、Web探索型ARG（代替現実ゲーム）の情報を整�
 
 ## 変更履歴
 
+### v1.0.6
+
+ - 不具合修正
+ 
 ### v1.0.5
 
  - URLを入力するとNo(インデックスとレベルが自動入力される処理を追加
